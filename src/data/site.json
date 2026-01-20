@@ -1,0 +1,75 @@
+{
+  "company": {
+    "name": "Schultz Retirement Solutions",
+    "tagline": "Retirement Simplified",
+    "description": "Helping you make informed, confident decisions so you can live a meaningful retirement. At Schultz Retirement Solutions, we believe retirement should be a time to enjoy the fruits of your labor — not worry about finances. Our mission is to simplify the complex and provide tailored financial solutions, so you can focus on what truly matters. With over 25 years of experience, we help individuals confidently navigate their retirement journey.",
+    "phone": "503.543.3844",
+    "email": "office@schultzretirement.com",
+    "address": "52461 Columbia River Highway, Scappoose, OR 97056",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768941843/auto-site-builder/Schultz%20Financial%20Services/image_0.png",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Retirement Simplified",
+    "subheadline": "Helping you make informed, confident decisions so you can live a meaningful retirement.",
+    "cta": {
+      "label": "CONTACT US",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661663373098-003886896551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsJTIwd29ya3NwYWNlJTIwY2xlYW58ZW58MHwwfHx8MTc2ODg2NTI3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "Our Mission",
+      "content": "At Schultz Retirement Solutions, we believe retirement should be a time to enjoy the fruits of your labor — not worry about finances. Our mission is to simplify the complex and provide tailored financial solutions, so you can focus on what truly matters. With over 25 years of experience, we help individuals confidently navigate their retirement journey.",
+      "image": "https://plus.unsplash.com/premium_photo-1677529498680-fdb9d5ee762a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVhbSUyMGNvbGxhYm9yYXRpb24lMjBvZmZpY2V8ZW58MHwwfHx8MTc2ODg2OTU2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Comprehensive Retirement Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "CONTACT US",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Schultz Retirement Solutions. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "SCHULTZ RETIREMENT SOLUTIONS - Retirement Planning",
+    "description": "Expert retirement planning in Scappoose, Oregon. Schultz Retirement Solutions specializes in Income planning, Social Security optimization, Medicare guidance, and investment planning to secure your financial future."
+  }
+}
